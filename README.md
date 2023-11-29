@@ -3,8 +3,8 @@
 I've just spent about 2 months making this script, which helps people automatically do IXL. IXL is often used by teachers/parents to assign homework, and I was a victim, and as one of the "nerds" in my class who are known for hacking stuff, I compiled this because no one had a working script to do this. Enjoy my 2 months of time to save many hours of your time!
 
 # How does it work? Is it patchable by IXL?
-Short Answer: No. It cannot be patched by IXL.
-Long Answer: No. It cannot be patched by IXL because my script uses Tesserat's OCR (Optical Charecter Recognition) to grab all text off of a certain area of the screen, then uses Aria/ChatGPT to solve it, then copy and paste the answer with PyAutoGUI
+- Short Answer: No. It cannot be patched by IXL.
+- Long Answer: No. It cannot be patched by IXL because my script uses Tesserat's OCR (Optical Charecter Recognition) to grab all text off of a certain area of the screen, then uses Aria/ChatGPT to solve it, then copy and paste the answer with PyAutoGUI
 
 # What You Will Need
 - How to download stuff 
